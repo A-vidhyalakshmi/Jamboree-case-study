@@ -1,5 +1,5 @@
 # Concepts Used:
 
-1. Exploratory Data Analysis
-
-2. Linear Regression
+1. Linear Regression
+2. Lasso,Ridge,ElasticNet Regression
+3. Exploratory Data Analysis
