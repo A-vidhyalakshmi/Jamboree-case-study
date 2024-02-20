@@ -15,8 +15,9 @@ Dataset Link: jamboree_admission.csv
 
 ## Column Profiling:
 
-Serial No. (Unique row ID)
-GRE Scores (out of 340)
+1. Serial No. (Unique row ID)
+
+2. GRE Scores (out of 340)
 TOEFL Scores (out of 120)
 University Rating (out of 5)
 Statement of Purpose and Letter of Recommendation Strength (out of 5)
